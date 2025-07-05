@@ -1,5 +1,5 @@
 # E-commerce-System
-# E-Commerce Checkout System
+
 
 This Java application simulates a basic e-commerce checkout system with the following features:
 
